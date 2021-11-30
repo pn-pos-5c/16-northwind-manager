@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e7fde40f-105c-4266-ba99-7d220d68bb9e": {
+      "ProjectGuid": "e7fde40f-105c-4266-ba99-7d220d68bb9e",
+      "DisplayName": "NorthwindManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

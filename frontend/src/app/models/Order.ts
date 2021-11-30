@@ -1,7 +1,7 @@
 export default interface Order {
   id: number;
-  orderDate: Date;
-  requiredDate: Date;
-  shippedDate: Date;
+  orderDate: number;
+  requiredDate: number;
+  shippedDate: number;
   nrOrderDetails: number;
 }
